@@ -1,0 +1,16 @@
+[
+  {
+    "_id": 1,
+    "_login": "biba",
+    "_password": "$2a$10$CEg8vB/0WsNjDOwbYolUk.qtSwYCG4k89q4p/JB.3v/JQHhhY7lsC",
+    "_isAdmin": true,
+    "_token": "tKRFoPyM9zRxw7qlVEGQZN2mOYoitRFG"
+  },
+  {
+    "_id": 2,
+    "_login": "boba",
+    "_password": "$2a$10$EmsmTk6isXaTtQEkaDIG2.VzQJUGVlgaUjU4aMjH0QHndYpZEt7iC",
+    "_isAdmin": false,
+    "_token": "fd6GpgZdmr3OavNpecgl0cCIvOrqg1hZ"
+  }
+]

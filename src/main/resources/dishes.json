@@ -1,0 +1,42 @@
+[
+  {
+    "_id": 1,
+    "_name": "Pizza Margherita",
+    "_description": "Classic Italian pizza with tomato sauce, fresh mozzarella, and basil",
+    "_quantity": 10,
+    "_cookingTime": 2,
+    "_price": 300.0
+  },
+  {
+    "_id": 2,
+    "_name": "Pepperoni Pizza",
+    "_description": "Traditional pizza topped with pepperoni slices and melted cheese",
+    "_quantity": 18,
+    "_cookingTime": 3,
+    "_price": 450.0
+  },
+  {
+    "_id": 3,
+    "_name": "Vegetarian Pizza",
+    "_description": "Delicious pizza loaded with assorted vegetables like bell peppers, onions, and mushrooms",
+    "_quantity": 3,
+    "_cookingTime": 2,
+    "_price": 400.0
+  },
+  {
+    "_id": 4,
+    "_name": "Hawaiian Pizza",
+    "_description": "Sweet and savory pizza topped with ham, pineapple, and cheese",
+    "_quantity": 99,
+    "_cookingTime": 4,
+    "_price": 380.0
+  },
+  {
+    "_id": 5,
+    "_name": "Meat Pizza",
+    "_description": "Hearty pizza piled high with various meats like pepperoni, sausage, ham, and bacon",
+    "_quantity": 20,
+    "_cookingTime": 4,
+    "_price": 600.0
+  }
+]
